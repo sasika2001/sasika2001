@@ -1,4 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi 👋, I’m Sasika Sewmini, a 3rd-year Artificial Intelligence student at the University of Moratuwa. I am passionate about AI and Machine Learning, and I love turning complex problems into innovative solutions.</h3>
+
+<h5 align="center"> Throughout my studies, I have worked on several AI/ML projects, including projects on facial image-based skin issue detection, personalized skincare recommendations, and early depression detection using social media text. I enjoy exploring new algorithms, building intelligent systems, and applying AI to real-world problems 🤖💻🧠.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasika2001&label=Profile%20views&color=0e75b6&style=flat" alt="sasika2001" /> </p>
 
