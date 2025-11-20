@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasika2001&label=Profile%20views&color=0e75b6&style=flat" alt="sasika2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasika2001" alt="sasika2001" /></a> </p>
-
 - 🔭 I’m currently pursuing **a 3rd-year Artificial Intelligence degree program**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Data Science**
